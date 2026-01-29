@@ -19,7 +19,7 @@ A lightweight Bash-based CLI tool to automate the process of archiving and compr
    ```bash
    git clone https://github.com/RadityaIlhamsyah/log-archive-tool.git
    https://github.com/RadityaIlhamsyah/log-archive-tool.git
-   cd log-archive-tool
+   cd log-archive-tool https://roadmap.sh/projects/log-archive-tool
 
 2. Grant execution permissions:
     ```bash
