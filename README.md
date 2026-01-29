@@ -19,5 +19,5 @@ A lightweight Bash-based CLI tool to automate the process of archiving and compr
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/RadityaIlhamsyah/log-archive-tool.git](https://github.com/RadityaIlhamsyah/log-archive-tool.git)
+   git clone https://github.com/RadityaIlhamsyah/log-archive-tool.git (https://github.com/RadityaIlhamsyah/log-archive-tool.git)
    cd log-archive-tool
